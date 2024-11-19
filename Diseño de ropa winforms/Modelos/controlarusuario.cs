@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Diseño_de_ropa_winforms.Modelos
 {
+    //clase usuario
     public class controlarusuario
     {
         private ListaEnlazadaUsuarios usuarios;
