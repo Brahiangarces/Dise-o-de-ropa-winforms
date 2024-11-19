@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Diseño_de_ropa_winforms.Modelos
 {
+    //modelos
     public class NodoArbol<T>
     {
         public T Valor { get; set; }
