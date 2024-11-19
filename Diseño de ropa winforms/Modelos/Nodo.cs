@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Diseño_de_ropa_winforms.Modelos
-{
+{//nodo
     public class Nodo<T>
     {
         public T valor { get; set; }
